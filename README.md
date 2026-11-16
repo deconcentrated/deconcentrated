@@ -32,11 +32,3 @@
 ![Analytics](https://img.shields.io/badge/Analytics-A256F8?style=flat-square)
 
 <img src="assets/chrome-extension.svg" width="100%" alt="Tracking audits right in your browser – a Chrome extension for performance marketing and analytics specialists." />
-
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&duration=4600&pause=1000&color=A256F8&width=435&lines=Let's+contact" alt="Let's contact" /></a> <br>
-
-<a href="https://www.linkedin.com/in/marcei" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mylinkedIn" />
-</a>
-<br><br>
